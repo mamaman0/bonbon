@@ -1,1 +1,1 @@
-# kazusakugame
+# こちらでBonBonゲーム開発のコードなどを共有します
